@@ -1,6 +1,14 @@
 # 🍕 Fast React Pizza
 
+---
 A modern, full-featured pizza ordering web application built with React, Redux Toolkit, and React Router. Order your favorite pizzas with a smooth, intuitive user experience.
+
+
+## 🎥 DEMO (CLICK TO WATCH)
+👉👉👉 **[WATCH THE DEMO VIDEO](https://drive.google.com/file/d/1oo-bcCLDVRkTGdntFAO1yxIsyXgLaB6C/view?usp=drive_link)**
+
+---
+
 
 ## ✨ Features
 
